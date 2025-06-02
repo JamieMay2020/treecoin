@@ -2,8 +2,8 @@
 class CharityManager {
     constructor() {
         this.charities = [];
-        this.totalDonated = 0;
-        this.treesFunded = 0;
+        this.totalDonated = 200;
+        this.treesFunded = 500;
         
         this.init();
     }
