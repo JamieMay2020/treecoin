@@ -46,7 +46,7 @@ class CharityManager {
                 name: "Tree Canada",
                 location: "Canada",
                 description: "Together We Can Plant More Trees. Planting a billion trees can help us curb the effects of climate change.",
-                website: "https://www.forestfoundation.org/",
+                website: "https://treecanada.ca/",
                 focus: "reforestation",
                 image: "canada.png", // Add image URL here
                 additionalInfo: "Tree Canada is the only national non-profit organization dedicated to planting and nurturing trees in rural and urban environments, in every province across the country. Since 1992, Tree Canada has worked relentlessly to grow Canada’s tree canopy through our greening programs, research, and engagement efforts. Together with our partners, we plant millions of trees each year to grow resilient ecosystems and healthier, greener communities" // Add more detailed information here
